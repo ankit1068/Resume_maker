@@ -58,11 +58,15 @@ resume_builder/
 │── README.md          # Documentation
 ```
 
-## Contributing
-Contributions are welcome! Feel free to submit issues and pull requests.
+
+Author
+
+👤 Ankit (ankit1068)
+
+GitHub: ankit1068
 
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, reach out to **your_email@example.com** or create an issue on the repository.
+For any queries, reach out to "ankitrajj1068@gmail.com" or create an issue on the repository.
